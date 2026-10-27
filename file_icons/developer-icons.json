@@ -1730,7 +1730,9 @@
     "tobi": "tobi",
     "gleam": "gleam",
     "steadybit.yml": "steadybit",
-    "steadybit.yaml": "steadybit"
+    "steadybit.yaml": "steadybit",
+    "crst": "_iphoneplay-crystal",
+    "crstproj": "_iphoneplay-crystalize"
   },
   "fileNames": {
     ".pug-lintrc": "pug",
@@ -2409,7 +2411,8 @@
     ".steadybit.yml": "steadybit",
     "steadybit.yml": "steadybit",
     ".steadybit.yaml": "steadybit",
-    "steadybit.yaml": "steadybit"
+    "steadybit.yaml": "steadybit",
+    "MakeCrystal": "_iphoneplay-makecrystal"
   },
   "languageIds": {
     "git": "git",
@@ -4729,6 +4732,15 @@
     },
     "folder-root-open": {
       "iconPath": "./../icons/folder-root-open.svg"
+    },
+    "_iphoneplay-crystal": {
+      "iconPath": "../icons/crystal.png"
+    },
+    "_iphoneplay-crystalize": {
+      "iconPath": "../icons/crystalize.png"
+    },
+    "_iphoneplay-makecrystal": {
+      "iconPath": "../icons/makecrystal.png"
     }
   },
   "light": {
@@ -4750,7 +4762,9 @@
       "plantuml": "uml_light",
       "wsd": "uml_light",
       "pgn": "chess_light",
-      "fen": "chess_light"
+      "fen": "chess_light",
+      "crst": "_iphoneplay-crystal",
+      "crstproj": "_iphoneplay-crystalize"
     },
     "fileNames": {
       ".rubocop.yml": "rubocop_light",
@@ -4798,7 +4812,8 @@
       "snowpack.config.json": "snowpack_light",
       "pnpm-lock.yaml": "pnpm_light",
       "pnpm-workspace.yaml": "pnpm_light",
-      ".pnpmfile.cjs": "pnpm_light"
+      ".pnpmfile.cjs": "pnpm_light",
+      "MakeCrystal": "_iphoneplay-makecrystal"
     },
     "folderNames": {
       "jinja": "folder-jinja_light",

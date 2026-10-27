@@ -1,11 +1,12 @@
 {
-  "name": "developer-theme-dark",
-  "displayName": "Developer's theme",
-  "description": "A theme suitable to coders who loves dark theme",
+  "name": "developer-theme-crystal-files",
+  "displayName": "Rajeshwaran Developer's Theme + iPhonePlay's Crystal Files",
+  "description": "Developer's Theme by Rajeshwaran, extended with Crystal language icons by iPhonePlay. Crystal here refers to the iPhonePlay Crystal language, not the unrelated Crystal language project.",
   "version": "6.0.0",
-  "publisher": "Rajeshwaran",
+  "publisher": "iphoneplay",
   "author": {
-    "name": "Rajeshwaran"
+    "name": "iPhonePlay",
+    "url": "https://github.com/Rajeshwaran2001/developer-theme-dark"
   },
   "icon": "assest/logo.jpg",
   "repository": {
@@ -92,8 +93,8 @@
     ],
     "iconThemes": [
       {
-        "id": "developer-icon-theme",
-        "label": "Developer's File Icons",
+        "id": "developer-crystal-file-icons",
+        "label": "Rajeshwaran Developer's Theme + iPhonePlay's Crystal Files",
         "path": "./file_icons/developer-icons.json"
       }
     ]
